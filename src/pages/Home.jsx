@@ -5,9 +5,9 @@ const Home = () => {
     return (
         <>
       {/* Hero Section */}
-      <section className="relative bg-cover bg-center h-screen 
-      md:bg-[url('./img/fondoselfie3.jpeg')] bg-[url('./img/fondovertical.png')]"
-      /* style={{ backgroundImage: 'url("./img/fondoselfie3.jpeg")' }} */>
+      <section className="relative md:bg-cover md:bg-center bg-cover h-screen" 
+    /*   md:bg-[url('./img/fondoselfie3.jpeg')] bg-[url('./img/fondovertical.png')]" */
+       style={{ backgroundImage: 'url("./img/fondoselfie3.jpeg")' }} >
 
         <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col justify-center items-center pb-20 text-white">
           <h1 className="text-5xl font-bold text-center mb-4">Viví la Música Lírica de Cerca</h1>
