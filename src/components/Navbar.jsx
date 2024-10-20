@@ -46,7 +46,7 @@ const Navbar = () => {
                         >MeloManías</h2>
 
                     </Link>
-                    <img src="./img/melomaniaslogo.png"
+                    <img src="./img/logo3.jpeg"
                     className="h-12 w-12 ml-5 rounded-full"
                     alt="" />
                 </div>

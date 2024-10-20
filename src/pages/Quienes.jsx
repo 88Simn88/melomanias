@@ -15,7 +15,7 @@ const teamMembers = [
     description4: `Participó en conciertos solistas en la parroquia San Pedro Apóstol en Villa Devoto, la parroquia Santa Teresita en Saénz Peña, en el Cine Teatro Ocean y en la Catedral de Morón.
     Actualmente se encuentra participando en la Clínica de la Voz en el Teatro Argentino de La Plata, dictada por la soprano Paula Almerares.`,
     imageUrl: '/img/dani2.jpeg', // Ruta de la imagen de María
-    igUrl: "",
+    igUrl: "https://www.instagram.com/danielapazzano.soprano",
     youtubeUrl: "",
     youtubeIcon: "",
   },
@@ -34,7 +34,7 @@ const teamMembers = [
     tales como Orfeo ed Euridice de Glück, Dido & Aeneas de Purcell, L’Elisir D’Amore de Donizetti,
     Carmen de Bizet, Turandot de Puccini, entre otras.` ,
     imageUrl: '/img/franco1.jpeg', // Ruta de la imagen de Jorge
-    igUrl: "",
+    igUrl: "https://www.instagram.com/francosapir",
     youtubeUrl: "",
     youtubeIcon: "",
   },

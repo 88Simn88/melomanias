@@ -20,7 +20,7 @@ const Contacto = () => {
          {/*  <a href="https://www.facebook.com/yourprofile" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-facebook text-5xl hover:text-blue-500"></i>
           </a> */}
-          <a href="https://www.instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/melomanias.cd" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-instagram text-5xl hover:text-pink-500"></i>
           </a>
         </div>
