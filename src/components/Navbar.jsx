@@ -42,7 +42,7 @@ const Navbar = () => {
                     <Link to={"/"}
                     onClick={handleScrollToTop}
                     >
-                        <h2 className="md:text-4xl ml-5 mt-3 md:mt-0"
+                        <h2 className="md:text-5xl text-2xl ml-5 mt-3 md:mt-0 font-serif"
                         >MeloManías</h2>
 
                     </Link>

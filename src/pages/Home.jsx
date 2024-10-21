@@ -2,6 +2,10 @@ import { Link } from "react-router-dom"
 
 const Home = () => {
 
+  const handleScrollToTop = () => {
+    window.scrollTo(0,0)
+}
+
     return (
         <>
       {/* Hero Section */}
@@ -15,7 +19,9 @@ const Home = () => {
         </div>
            <div className="absolute top-[580px] md:top-[500px] left-[120px] md:left-[150px]">
 {/*             <Link href="#concerts" className="bg-accent hover:bg-blue-800 text-white font-bold py-2 px-4 rounded mx-2">Ver Próximos Conciertos</Link> */}
-            <Link to={"/contacto"} className="bg-highlight hover:bg-blue-800 text-white font-bold py-2 px-4 rounded mx-2">Contactanos</Link>
+            <Link to={"/contacto"}
+            onClick={handleScrollToTop}
+            className="bg-highlight hover:bg-blue-800 text-white font-bold py-2 px-4 rounded mx-2">Contactanos</Link>
           </div> 
       </section>
 
